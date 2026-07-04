@@ -1,34 +1,37 @@
-# Hi, I'm Thabo Sakonta 👋
+**Microsoft Certified Security Operations Analyst (SC-200)**
 
-Microsoft Certified Security Operations Analyst (SC-200)
-
-Cybersecurity | SOC Operations | Detection Engineering | Threat Hunting | Digital Forensics | Incident Response
+Cybersecurity Professional | SOC Analyst | Detection Engineering | Threat Hunting | Digital Forensics (DFIR) | Incident Response | Python Automation
 
 ---
 
-## About Me
+# About Me
 
-I am building a practical cybersecurity portfolio focused on Security Operations Center (SOC) activities, Detection Engineering, Threat Hunting, Incident Response, and Microsoft Security technologies.
+I am a cybersecurity professional focused on Security Operations Center (SOC) activities, Detection Engineering, Threat Hunting, Incident Response, Digital Forensics, and Microsoft Security technologies.
 
-My projects simulate real-world blue-team investigations using industry frameworks including:
+My portfolio demonstrates practical, hands-on experience through real-world SOC simulations and blue-team investigations using industry-recognized frameworks and tools.
 
-- Microsoft Sentinel
-- MITRE ATT&CK
-- Sigma Rules
-- DFIR Methodology
-- Network Traffic Analysis
-- Windows Security Events
-- Threat Hunting
-- Python Automation
+My projects cover:
+
+* Microsoft Sentinel investigations
+* Detection Engineering
+* Sigma Rule Development
+* Threat Hunting
+* Digital Forensics & Incident Response (DFIR)
+* Network Traffic Analysis
+* Windows Event Log Analysis
+* MITRE ATT&CK Mapping
+* Python SOC Automation
+* Security Monitoring
 
 ---
 
 # Certifications
 
-- Microsoft Certified Security Operations Analyst (SC-200)
-- Google Cybersecurity Professional Certificate
-- Career Essentials in Cybersecurity
-- Career Essentials in Generative AI
+* Microsoft Certified Security Operations Analyst (SC-200)
+* Google Cybersecurity Professional Certificate
+* Career Essentials in Cybersecurity
+* Career Essentials in Generative AI
+* Microsoft Digital Literacy
 
 ---
 
@@ -36,9 +39,9 @@ My projects simulate real-world blue-team investigations using industry framewor
 
 ## Microsoft Sentinel Lab
 
-Alert triage, incident investigation, KQL concepts, MITRE ATT&CK mapping, and SOC workflows.
+Simulates Microsoft Sentinel alert triage, incident investigation, MITRE ATT&CK mapping, and SOC workflows.
 
-Repository:
+**Repository**
 
 https://github.com/thabosakonta-wq/microsoft-sentinel-lab
 
@@ -46,9 +49,9 @@ https://github.com/thabosakonta-wq/microsoft-sentinel-lab
 
 ## Detection Engineering Lab
 
-Development of Sigma rules and Windows security detections.
+Development of Sigma rules for Windows Security Events, detection engineering workflows, and professional security reporting.
 
-Repository:
+**Repository**
 
 https://github.com/thabosakonta-wq/detection-engineering-lab
 
@@ -56,9 +59,9 @@ https://github.com/thabosakonta-wq/detection-engineering-lab
 
 ## Threat Hunting Lab
 
-Proactive threat hunting using Linux authentication logs and MITRE ATT&CK.
+Proactive threat hunting using Linux authentication logs, detection engineering, and MITRE ATT&CK mapping.
 
-Repository:
+**Repository**
 
 https://github.com/thabosakonta-wq/threat-hunting-lab
 
@@ -66,9 +69,9 @@ https://github.com/thabosakonta-wq/threat-hunting-lab
 
 ## Velociraptor Investigation Lab
 
-Endpoint investigations using DFIR methodology and Velociraptor concepts.
+Digital Forensics and Incident Response (DFIR) investigation demonstrating endpoint artifact analysis and forensic workflows.
 
-Repository:
+**Repository**
 
 https://github.com/thabosakonta-wq/velociraptor-investigation-lab
 
@@ -76,9 +79,9 @@ https://github.com/thabosakonta-wq/velociraptor-investigation-lab
 
 ## Network Traffic Analysis Lab
 
-DNS, HTTP, suspicious IP investigations and MITRE ATT&CK mapping.
+Investigation of DNS, HTTP, and suspicious network communications with MITRE ATT&CK mapping.
 
-Repository:
+**Repository**
 
 https://github.com/thabosakonta-wq/network-traffic-analysis-lab
 
@@ -86,63 +89,113 @@ https://github.com/thabosakonta-wq/network-traffic-analysis-lab
 
 ## Python SOC Automation Lab
 
-Python scripts automating common SOC workflows.
+Python automation scripts for SOC investigations, log analysis, alert generation, and incident reporting.
 
-Repository:
+**Repository**
 
 https://github.com/thabosakonta-wq/python-soc-automation-lab
 
 ---
 
-# Skills
+# Technical Skills
 
 ## Security Operations
 
-- Microsoft Sentinel
-- Incident Response
-- Threat Hunting
-- Detection Engineering
-- DFIR
-- MITRE ATT&CK
-- Sigma
+* Microsoft Sentinel
+* Threat Hunting
+* Detection Engineering
+* Incident Response
+* Digital Forensics (DFIR)
+* Security Monitoring
+* MITRE ATT&CK
+* Sigma Rules
 
-## Microsoft Security
+---
 
-- Microsoft Defender
-- SC-200 Concepts
-- KQL
-- Microsoft Security Stack
+## Programming & Scripting
 
-## Programming
+* Python
+* Bash
+* PowerShell (Fundamentals)
 
-- Python
-- Bash
-- PowerShell (fundamentals)
+---
 
 ## Operating Systems
 
-- Linux
-- Termux
-- Windows
+* Windows
+* Linux
+* Android
 
 ---
 
-# Currently Learning
+## Tools & Platforms
 
-- Microsoft Defender XDR
-- Microsoft Sentinel Advanced Analytics
-- Detection Engineering
-- Threat Intelligence
-- Cloud Security
+* Microsoft Sentinel
+* Git
+* GitHub
+* Termux
+* Velociraptor
+* MITRE ATT&CK
+* Sigma
 
 ---
 
-# Connect
+# Current Learning Focus
 
-LinkedIn
+I continue expanding my expertise in:
+
+* Microsoft Defender XDR
+* Advanced Microsoft Sentinel Analytics
+* Threat Intelligence
+* Detection Engineering
+* Cloud Security
+* Security Automation
+* AI for Cybersecurity
+
+---
+
+# Career Objective
+
+My goal is to build a career in Security Operations where I can contribute to protecting organizations through threat detection, incident response, detection engineering, digital forensics, and continuous security improvement.
+
+I am actively developing practical blue-team skills through hands-on cybersecurity projects that simulate real-world SOC environments.
+
+---
+
+# Connect With Me
+
+**LinkedIn**
 
 https://www.linkedin.com/in/thabo-sakonta-377a3748
 
-GitHub
+**GitHub**
 
 https://github.com/thabosakonta-wq
+
+---
+
+# Portfolio Highlights
+
+✔ Microsoft Sentinel Investigations
+
+✔ Detection Engineering
+
+✔ Threat Hunting
+
+✔ Digital Forensics (DFIR)
+
+✔ Network Traffic Analysis
+
+✔ MITRE ATT&CK Mapping
+
+✔ Windows Event Analysis
+
+✔ Python SOC Automation
+
+✔ Sigma Rule Development
+
+✔ Professional Security Documentation
+
+✔ Incident Investigation
+
+✔ Security Reporting
