@@ -1,12 +1,12 @@
 **Microsoft Certified Security Operations Analyst (SC-200)**
 
-Cybersecurity Professional | SOC Analyst | Detection Engineering | Threat Hunting | Digital Forensics (DFIR) | Incident Response | Python Automation
+Cybersecurity Analyst | SOC Analyst | Detection Engineering | Threat Hunting | Digital Forensics (DFIR) | Incident Response | Python Automation
 
 ---
 
 # About Me
 
-I am a cybersecurity professional focused on Security Operations Center (SOC) activities, Detection Engineering, Threat Hunting, Incident Response, Digital Forensics, and Microsoft Security technologies.
+I am an aspiring cybersecurity analyst focused on Security Operations Center (SOC) activities, Detection Engineering, Threat Hunting, Incident Response, Digital Forensics, and Microsoft Security technologies.
 
 My portfolio demonstrates practical, hands-on experience through real-world SOC simulations and blue-team investigations using industry-recognized frameworks and tools.
 
