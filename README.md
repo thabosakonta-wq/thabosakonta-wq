@@ -28,7 +28,7 @@ Areas of interest include:
 
 • MITRE ATT&CK
 
-I am actively seeking opportunities as a SOC Analyst, Cybersecurity Analyst or Detection Engineer where I can contribute to protecting organisations while continuing to develop practical blue-team skills.
+I am currently seeking opportunities as a SOC Analyst, Cybersecurity Analyst, Detection Engineer, Threat Hunter, or Blue Team Analyst where I can apply my technical skills, investigative mindset, and commitment to continuous learning.
 
 ---
 
