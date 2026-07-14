@@ -6,22 +6,29 @@ Cybersecurity Analyst | SOC Analyst | Detection Engineering | Threat Hunting | D
 
 # About Me
 
-I am an aspiring cybersecurity analyst focused on Security Operations Center (SOC) activities, Detection Engineering, Threat Hunting, Incident Response, Digital Forensics, and Microsoft Security technologies.
+Microsoft Certified Security Operations Analyst (SC-200) with hands-on experience building Security Operations Center (SOC) projects focused on Microsoft Sentinel, Detection Engineering, Threat Hunting, Incident Response, Digital Forensics (DFIR), Network Traffic Analysis, Windows Event Analysis, Sigma Rules and MITRE ATT&CK mapping.
 
-My portfolio demonstrates practical, hands-on experience through real-world SOC simulations and blue-team investigations using industry-recognized frameworks and tools.
+My cybersecurity portfolio demonstrates practical investigations and blue-team workflows using Microsoft security technologies, Linux, Python, Bash, Sysmon, Velociraptor and GitHub.
 
-My projects cover:
+Areas of interest include:
 
-* Microsoft Sentinel investigations
-* Detection Engineering
-* Sigma Rule Development
-* Threat Hunting
-* Digital Forensics & Incident Response (DFIR)
-* Network Traffic Analysis
-* Windows Event Log Analysis
-* MITRE ATT&CK Mapping
-* Python SOC Automation
-* Security Monitoring
+• Security Operations Center (SOC)
+
+• Microsoft Sentinel
+
+• Detection Engineering
+
+• Threat Hunting
+
+• Incident Response
+
+• Digital Forensics (DFIR)
+
+• Security Monitoring
+
+• MITRE ATT&CK
+
+I am actively seeking opportunities as a SOC Analyst, Cybersecurity Analyst or Detection Engineer where I can contribute to protecting organisations while continuing to develop practical blue-team skills.
 
 ---
 
