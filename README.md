@@ -44,9 +44,19 @@ I am currently seeking opportunities as a SOC Analyst, Cybersecurity Analyst, De
 
 # Featured Projects
 
+## Microsoft Sentinel Detection Engineering Lab
+
+Hands-on Microsoft Sentinel detection engineering lab demonstrating KQL threat detection, threat hunting, MITRE ATT&CK mapping, incident investigation, and SOC investigation workflows.
+
+**Repository**
+
+https://github.com/thabosakonta-wq/Microsoft-Sentinel-Detection-Engineering-Lab
+
+---
+
 ## Microsoft Sentinel Lab
 
-Simulates Microsoft Sentinel alert triage, incident investigation, MITRE ATT&CK mapping, and SOC workflows.
+Microsoft Sentinel SOC Lab demonstrating alert triage, incident investigation, MITRE ATT&CK mapping, and threat detection workflows.
 
 **Repository**
 
@@ -54,19 +64,9 @@ https://github.com/thabosakonta-wq/microsoft-sentinel-lab
 
 ---
 
-## Detection Engineering Lab
-
-Development of Sigma rules for Windows Security Events, detection engineering workflows, and professional security reporting.
-
-**Repository**
-
-https://github.com/thabosakonta-wq/detection-engineering-lab
-
----
-
 ## Threat Hunting Lab
 
-Proactive threat hunting using Linux authentication logs, detection engineering, and MITRE ATT&CK mapping.
+Hands-on threat hunting lab demonstrating log analysis, IOC investigation, incident reporting, evidence collection, and SOC analyst workflows.
 
 **Repository**
 
@@ -74,9 +74,19 @@ https://github.com/thabosakonta-wq/threat-hunting-lab
 
 ---
 
+## Python SOC Automation Lab
+
+Python-based SOC automation lab demonstrating Windows Event Log analysis, detection engineering, alert correlation, incident investigation, and MITRE ATT&CK mapping.
+
+**Repository**
+
+https://github.com/thabosakonta-wq/Python-SOC-Automation-Lab
+
+---
+
 ## Velociraptor Investigation Lab
 
-Digital Forensics and Incident Response (DFIR) investigation demonstrating endpoint artifact analysis and forensic workflows.
+Velociraptor-inspired DFIR and endpoint investigation lab demonstrating digital forensic workflows, endpoint artifact analysis, and MITRE ATT&CK techniques.
 
 **Repository**
 
@@ -84,23 +94,13 @@ https://github.com/thabosakonta-wq/velociraptor-investigation-lab
 
 ---
 
-## Network Traffic Analysis Lab
+## Detection Engineering Lab
 
-Investigation of DNS, HTTP, and suspicious network communications with MITRE ATT&CK mapping.
-
-**Repository**
-
-https://github.com/thabosakonta-wq/network-traffic-analysis-lab
-
----
-
-## Python SOC Automation Lab
-
-Python automation scripts for SOC investigations, log analysis, alert generation, and incident reporting.
+Detection Engineering Lab demonstrating Sigma rule development, threat detection, detection engineering workflows, and MITRE ATT&CK mapping.
 
 **Repository**
 
-https://github.com/thabosakonta-wq/python-soc-automation-lab
+https://github.com/thabosakonta-wq/detection-engineering-lab
 
 ---
 
